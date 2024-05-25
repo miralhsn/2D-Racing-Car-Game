@@ -1,9 +1,3 @@
-#pragma once
-// Data Structures Final Project Fall 2023
-// Miral Hasan 22i-8753
-// Syed Musaab Sami 22i-2682
-// Submitted to: Ma'am Maheen Arshad
-
 #include <iostream>
 #include <conio.h>
 #include <cstdlib>
